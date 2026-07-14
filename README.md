@@ -11,6 +11,7 @@
 ## 🎮 Overview
 
 **Alterdune** is a turn-based roguelike RPG built in **C++17** with **SFML** and **ImGui**. The player goes through **10 consecutive fights**, choosing at every encounter between two paths: **kill** the monster (the *Conquest* path) or **spare** it through the **Mercy** system (the *Redemption* path). The mix of choices across a run leads to one of **three different endings** — Conquest, Redemption, or Balance.
+Contributor: https://github.com/Antoine-Roucau/Antoine-Roucau
 
 ## ✨ Features
 
