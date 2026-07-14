@@ -1,0 +1,101 @@
+id;name;description;type;value;selfTarget
+0;RAMPAGE;Vous arrêtez de penser et commencez à frapper. Ça marche mieux que prévu.;DOMMAGE;22;FALSE
+1;CLEAVE;Un large arc horizontal. Le monstre n'a pas su où esquiver. Vous non plus.;DOMMAGE;16;FALSE
+2;RECKLESS_BLOW;Vous mettez tout dans ce coup. Votre colonne vertébrale n'est pas d'accord. Le monstre encore moins.;DOMMAGE;28;FALSE
+3;BLOOD_FRENZY;La vue du combat vous aiguise instantanément. Vos attaques semblent plus lourdes.;BUFF_ATK;8;TRUE
+4;WAR_STANCE;Vous déplacez votre poids en avant. Une posture offensive concentrée.;BUFF_ATK;6;TRUE
+5;BATTLE_RAGE;Une montée d'adrénaline. Vos coups s'affûtent pour 3 tours.;BUFF_ATK_TIME;7;TRUE
+6;BERSERKER_FURY;Mode berserk activé. Tout fait plus mal. Surtout l'ennemi. Pendant 3 tours.;BUFF_ATK_TIME;10;TRUE
+7;ARMOR_BREAK;Vous trouvez un point faible et l'exploitez brutalement. La garde du monstre s'effondre.;DEBUFF_DEF;6;FALSE
+8;CRUSH;Un impact broyant qui affaiblit les défenses du monstre pour 3 tours.;DEBUFF_DEF_TIME;5;FALSE
+9;INTIMIDATE;Vous vous approchez et fixez. Le monstre tressaille. Sa prochaine frappe est plus faible.;DEBUFF_ATK;5;FALSE
+10;SAVAGE_ROAR;Un cri primal. Le monstre hésite pendant 3 tours. La peur est un debuff valable.;DEBUFF_ATK_TIME;4;FALSE
+11;BLEED;Une entaille profonde. Pas élégante. Très efficace. Le monstre saigne pendant 3 tours.;DOMMAGE_TIME;7;FALSE
+12;FRENZY_BLEED;Multiples coupures rapides. Chacune petite. Collectivement un problème pendant 3 tours.;DOMMAGE_TIME;6;FALSE
+13;PRIMAL_HEAL;Vous vous mordez quelque chose et vous vous forcez à récupérer. Discutable. Efficace.;HEAL;12;TRUE
+14;SECOND_WIND;Votre corps refuse d'abandonner. Vous régénérez pendant 3 tours par pure obstination.;HEAL_TIME;5;TRUE
+15;ARCANE_BOLT;Une rafale d'énergie arcanique concentrée. Propre précise et très inamicale.;DOMMAGE;18;FALSE
+16;VOID_LANCE;Vous déchirez un éclat de néant et le lancez. Le monstre apprend ce que le vide ressent.;DOMMAGE;24;FALSE
+17;FROST_SHARD;Un pic de froid cristallisé. Il frappe vite et laisse le monstre confus et tremblant.;DOMMAGE;14;FALSE
+18;IGNITE_SPELL;Vous invoquez une petite flamme et la donnez au problème. Brûle pendant 3 tours.;DOMMAGE_TIME;6;FALSE
+19;ARCANE_ROT;Une malédiction arcanique à action lente ronge le monstre pendant 3 tours.;DOMMAGE_TIME;5;FALSE
+20;MIND_BREAK;Vous pénétrez l'esprit du monstre et déplacez quelques choses. Sa visée en souffre.;DEBUFF_ATK;6;FALSE
+21;EXPOSE;Un dissipement localisé arrache la résistance naturelle du monstre. Pour l'instant.;DEBUFF_DEF;7;FALSE
+22;ENFEEBLE;Un sortilège d'affaiblissement s'installe sur le monstre pendant 3 tours.;DEBUFF_ATK_TIME;5;FALSE
+23;SHATTER_WARD;Vous effondrez la résistance magique du monstre pendant 3 tours.;DEBUFF_DEF_TIME;6;FALSE
+24;ARCANE_FOCUS;Vous vous centrez dans le flux magique. Vos sorts frappent plus fort pendant 3 tours.;BUFF_ATK_TIME;8;TRUE
+25;MANA_SHIELD;Une barrière d'énergie arcanique absorbe la force entrante pendant 3 tours.;BUFF_DEF_TIME;7;TRUE
+26;ARCANE_MEND;Vous tissez un sort de restauration rapide sur vous-même. Les blessures se ferment.;HEAL;50;TRUE
+27;REGEN_FIELD;Une aura régénératrice vous entoure pendant 3 tours. Étonnamment cosy.;HEAL_TIME;6;TRUE
+28;HEX;Vous lancez un sortilège de charme sur le monstre. Il est confus à votre sujet.;MERCY_DOMMAGE;15;FALSE
+29;MIND_LINK;Un lien psychique d'empathie. Le monstre s'ouvre lentement à vous sur 3 tours.;MERCY_DOMMAGE_TIME;8;FALSE
+30;GROUND_SMASH;Vous frappez vos poings dans la terre. L'onde de choc atteint le monstre.;DOMMAGE;20;FALSE
+31;HAYMAKER;Un coup large et dévastateur. Le monstre l'a vu venir. Ça n'a pas aidé.;DOMMAGE;17;FALSE
+32;EARTHQUAKE;Vous tapez assez fort pour que le sol proteste pendant 3 tours.;DOMMAGE_TIME;6;FALSE
+33;WAR_CRY;Un cri de bataille qui enflamme votre propre poitrine. Vos attaques semblent plus puissantes.;BUFF_ATK;7;TRUE
+34;FORTIFY;Vous vous plantez. Vous ne bougez pas. Vous êtes à peine une personne. Juste de la défense.;BUFF_DEF;8;TRUE
+35;WAR_PAINT;Des symboles anciens tracés dans la boue et la conviction. Votre peau durcit légèrement.;BUFF_DEF;6;TRUE
+36;IRON_SKIN;Vous canalisez l'endurance ancestrale. Vos défenses tiennent ferme pendant 3 tours.;BUFF_DEF_TIME;7;TRUE
+37;ANCESTRAL_RAGE;Les esprits de vos ancêtres prêtent leur fureur pendant 3 tours. Ils sont très en colère.;BUFF_ATK_TIME;6;TRUE
+38;SHATTER_BONES;Un coup précis qui trouve la structure et l'enlève. La garde du monstre s'effondre.;DEBUFF_DEF;5;FALSE
+39;BATTLE_HOWL;Un hurlement animalistique brut. Le monstre tressaille. Sa prochaine frappe est plus faible.;DEBUFF_ATK;5;FALSE
+40;PRIMAL_ROAR;Un rugissement terrifiant soutenu. Le monstre perd courage pendant 3 tours.;DEBUFF_ATK_TIME;4;FALSE
+41;BARBARIC_YAWP;Vous yawpez. Barbariquement. L'armure du monstre se décroche pendant 3 tours.;DEBUFF_DEF_TIME;6;FALSE
+42;BATTLE_TRANCE;La douleur devient lointaine. Vous récupérez une poussée de PV par pure présence.;HEAL;15;TRUE
+43;ENDURE;Vous décidez de ne pas mourir pendant 3 tours. Votre corps accepte à contrecoeur.;HEAL_TIME;7;TRUE
+44;BATTLE_CRY;Un rugissement de guerre puissant. ATK +6 pendant 3 tours.;BUFF_ATK_TIME;6;TRUE
+45;BITE;Une morsure sèche et précise. Dégâts directs.;DOMMAGE;8;FALSE
+46;SWEEP;Une large attaque basse visant les jambes. Pas subtil. Fait le travail.;DOMMAGE;6;FALSE
+47;STALK;Vous vous approchez silencieusement. ATK ennemie -3.;DEBUFF_ATK;3;FALSE
+48;UNSETTLE;Mouvement déstabilisant. DEF ennemie -4.;DEBUFF_DEF;4;FALSE
+49;NIBBLE;Plusieurs petites morsures. Saignement 3 tours.;DOMMAGE_TIME;3;FALSE
+50;LUNGE;Une charge brusque et violente. Dégâts importants.;DOMMAGE;11;FALSE
+51;STRIKE;Une frappe directe. Pas de fioritures. Le monstre ne l'a pas appréciée.;DOMMAGE;8;FALSE
+52;SIDESTEP;Un pas de côté agile. DEF +4 pendant 3 tours.;BUFF_DEF_TIME;4;TRUE
+53;JOLT;Un éclair électrique soudain. Le monstre tressaute. Désagréable pour tout le monde.;DOMMAGE;7;FALSE
+54;WEAKEN;Un coup ciblé sur une articulation. Le prochain mouvement du monstre est notablement plus lent.;DEBUFF_ATK;4;FALSE
+55;DOMINATE;Pression psychologique écrasante. ATK ennemie -6 pendant 3t.;DEBUFF_ATK_TIME;6;FALSE
+56;MOCK;Une provocation calculée. DEF ennemie -5 pendant 3 tours.;DEBUFF_DEF_TIME;5;FALSE
+57;ROAR;Un rugissement intimidant. ATK +6 instantané.;BUFF_ATK;6;TRUE
+58;SHATTER;Un coup concentré visant à briser. L'impact est décisif.;DOMMAGE;14;FALSE
+59;BLIND_TIME;Un éclair désorientant. La visée du monstre se dégrade pendant 3 tours.;DEBUFF_ATK_TIME;5;FALSE
+60;APAISEMENT;Une approche calme et délibérée. La cible se sent moins hostile.;MERCY_DOMMAGE;8;FALSE
+61;SCRATCH;Une griffe rapide. Légère mais constante. Saigne pendant 3 tours.;DOMMAGE_TIME;4;FALSE
+62;SLIME;Vous couvrez l'ennemi de slime. Ses défenses s'amollissent pendant 3 tours.;DEBUFF_DEF_TIME;4;FALSE
+63;BUBBLE;Une bulle d'air comprimé vous entoure brièvement. Votre défense monte.;BUFF_DEF;5;TRUE
+64;HOWL;Un cri strident déstabilisant. L'ennemi hésite pendant 3 tours.;DEBUFF_ATK_TIME;3;FALSE
+65;SPORE;Des spores toxiques envahissent l'adversaire. Empoisonnement léger pendant 3 tours.;DOMMAGE_TIME;3;FALSE
+66;TACKLE;Un charge directe. Brutal et sans finesse.;DOMMAGE;9;FALSE
+67;FLICKER;Un mouvement rapide difficile à suivre. Esquive partielle appliquée.;BUFF_DEF_TIME;4;TRUE
+68;GNAW;Vous mordez. Encore et encore. Le monstre saigne sur 3 tours.;DOMMAGE_TIME;5;FALSE
+69;SCREECH;Un cri perçant. L'attaque ennemie chute brièvement.;DEBUFF_ATK;3;FALSE
+70;STOMP;Un pied lourd sur le sol. L'onde de choc frappe l'adversaire.;DOMMAGE;11;FALSE
+71;HARDEN;Votre carapace se durcit. Défense augmentée pendant 3 tours.;BUFF_DEF_TIME;5;TRUE
+72;POUNCE;Vous bondissez sur l'ennemi. Impact soudain et dévastateur.;DOMMAGE;13;FALSE
+73;AMBUSH;Une attaque surprise depuis l'ombre. Dégâts élevés.;DOMMAGE;13;FALSE
+74;COPY_STRIKE;Imite et retourne l'attaque ennemie. Dégâts moyens.;DOMMAGE;10;FALSE
+75;ABSORB;Vous absorbez une partie de l'énergie vitale de l'adversaire.;HEAL;8;TRUE
+76;TOXIC_BREATH;Un souffle empoisonné couvre l'ennemi. Dégâts sur 3 tours.;DOMMAGE_TIME;8;FALSE
+77;SHELL_SPIN;Vous tournoyez dans votre carapace. Défense accrue pendant 3 tours.;BUFF_DEF_TIME;6;TRUE
+78;ACID_SPIT;Un crachat acide qui corrode l'armure ennemie pendant 3 tours.;DEBUFF_DEF_TIME;5;FALSE
+79;WAR_DRUMS;Le son des tambours vous galvanise. Attaque boostée pendant 3 tours.;BUFF_ATK_TIME;5;TRUE
+80;MESMERIZE;Un regard hypnotique. ATK ennemie -5 pendant 3 tours.;DEBUFF_ATK_TIME;5;FALSE
+81;THORNS;Votre peau se hérisse d'épines. Tout attaquant prend des dégâts réfléchis.;BUFF_DEF;7;TRUE
+82;TREMOR_STOMP;Un tremblement de sol violent. L'ennemi perd de l'équilibre et sa défense chute.;DEBUFF_DEF;6;FALSE
+83;CRY_OUT;Un cri strident. DEF ennemie -6 instantanément.;DEBUFF_DEF;6;FALSE
+84;REGENERATE;Le monstre se régénère lentement. Récupération sur 3 tours.;HEAL_TIME;6;TRUE
+85;FURY_CHARGE;Une charge frénétique qui brise les défenses.;DOMMAGE;15;FALSE
+86;ENTANGLE;Des lianes vous enveloppent. Vous vous dégagez mais la défense augmente.;BUFF_DEF_TIME;5;TRUE
+87;METEOR;Un fragment de roche tombe du ciel. Impact massif.;DOMMAGE;20;FALSE
+88;PLAGUE;Une maladie se répand. Dégâts graves sur 3 tours.;DOMMAGE_TIME;9;FALSE
+89;RALLYING_CRY;Un cri de ralliement qui booste votre attaque pendant 3 tours.;BUFF_ATK_TIME;8;TRUE
+90;ANCIENT_CURSE;Une malédiction ancienne réduit l'attaque ennemie pendant 3 tours.;DEBUFF_ATK_TIME;6;FALSE
+91;VOID_PULL;Vous attirez l'ennemi dans le vide. Dégâts importants.;DOMMAGE;18;FALSE
+92;CRYSTAL_PRISON;Des cristaux emprisonnent l'ennemi. Sa défense s'effondre pendant 3 tours.;DEBUFF_DEF_TIME;7;FALSE
+93;FOCUS;Concentration intense. ATK +7 instantané.;BUFF_ATK;7;TRUE
+94;VENOMOUS_BITE;Une morsure venimeuse. Dégâts sur 3 tours plus importants.;DOMMAGE_TIME;10;FALSE
+95;TIDAL_WAVE;Une vague gigantesque balaie tout sur son passage.;DOMMAGE;22;FALSE
+96;SOLAR_FLARE;Une explosion solaire aveuglante. Attaque ennemie réduite pendant 3 tours.;DEBUFF_ATK_TIME;7;FALSE
+97;STONE_SKIN;Votre peau devient pierre. Défense considérablement augmentée.;BUFF_DEF;10;TRUE
+98;SOUL_DRAIN;Vous drainez l'âme de l'ennemi. Récupération de PV.;HEAL;10;TRUE
+99;FINAL_JUDGMENT;Le jugement final s'abat. Dégâts cataclysmiques.;DOMMAGE;30;FALSE

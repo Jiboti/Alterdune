@@ -1,0 +1,101 @@
+id;name;description;value;type;actionIds;slotType
+1;Hache de Fer;Une hache lourde et brutale. Taille bien.;15;EQUIPPABLE;1;MAIN_HAND
+2;Gantelets du Berserk;Déclenchent une rage incontrôlable pendant 3 tours.;40;EQUIPPABLE;6;CHEST
+3;Bouclier de la Garde;Un bouclier massif pour se fortifier.;20;EQUIPPABLE;34;MAIN_HAND
+4;Peintures Tribales;Des peintures de guerre qui durcissent la peau.;30;EQUIPPABLE;35;CHEST
+5;Bombe a Fragmentation;Un explosif dévastateur à usage unique.;35;CONSUMABLE;0;NONE
+6;Fiole d'Adrenaline;Booste temporairement l'attaque pendant 3 tours.;12;CONSUMABLE;5;NONE
+7;Parchemin de Terreur;Un sceau qui brise l'armure ennemie.;15;CONSUMABLE;7;NONE
+8;Potion d'Ecailles;Durcit la peau pour 3 tours.;18;CONSUMABLE;36;NONE
+9;Marteau Sismique;Provoque des secousses et brise les os. Arme à deux mains.;60;EQUIPPABLE;32;TWO_HANDS
+10;Anneau de Vigueur;Canalise l'énergie vitale. HP max +15.;22;EQUIPPABLE;42;RING
+11;Epee Temeraite;Frappe extrêmement fort mais expose le porteur.;45;EQUIPPABLE;2;MAIN_HAND
+12;Bague de Célérité;Une bague légère qui amplifie la vitesse de frappe. ATK +4.;25;EQUIPPABLE;4;RING
+13;Dague Ensorceles;Légère mais tranchante. Cause des saignements.;18;EQUIPPABLE;11;MAIN_HAND
+14;Arc Long;Tirs précis à distance. Frappe sans pitié.;35;EQUIPPABLE;1;TWO_HANDS
+15;Casque de Fer;Un heaume basique mais solide. Défense +8.;20;EQUIPPABLE;34;HEAD
+16;Armure de Cuir;Légère et flexible. Défense +6.;25;EQUIPPABLE;35;CHEST
+17;Botte de Plomb;Des bottes lourdes mais protectrices. Défense +5.;20;EQUIPPABLE;34;FEET
+18;Anneau de Force;Un anneau qui canalise la puissance brute. Attaque +6.;30;EQUIPPABLE;4;RING
+19;Collier du Sage;Un pendentif qui apaise les esprits. Mercy +10.;25;EQUIPPABLE;28;NECK
+20;Potion de Soin;Restaure 20 PV instantanément.;10;CONSUMABLE;13;NONE
+21;Grande Potion;Restaure 50 PV instantanément.;25;CONSUMABLE;26;NONE
+22;Herbe Medicinale;Restaure lentement 6 PV sur 3 tours.;8;CONSUMABLE;27;NONE
+23;Anneau de Pierre;Un anneau de granite solide. DEF +5.;20;EQUIPPABLE;34;RING
+24;Bague Venimeuse;Un anneau empoisonné. Poison sur 3 tours.;28;EQUIPPABLE;11;RING
+25;Elixir de Rage;Augmente l'attaque de 8 instantanément.;20;CONSUMABLE;3;NONE
+26;Bouclier Ancestral;Un bouclier gravé de runes. Défense +10.;45;EQUIPPABLE;36;MAIN_HAND
+27;Anneau de Mercy;Facilite l'apaisement des créatures. Mercy +15.;35;EQUIPPABLE;28;RING
+28;Epaulettes d'Acier;Des épaulettes forgées dans l'acier pur. Défense +7.;30;EQUIPPABLE;36;CHEST
+29;Bottes de Vitesse;Des bottes légères. Attaque +4 par agilité.;22;EQUIPPABLE;4;FEET
+30;Pendentif de Paix;Un talisman de compassion. Mercy +12.;28;EQUIPPABLE;29;NECK
+31;Katana Sacre;Une lame rituelle d'une précision absolue. Attaque +8.;50;EQUIPPABLE;3;MAIN_HAND
+32;Robe Arcanique;Amplificateur magique tissé d'énergie. Attaque +6.;35;EQUIPPABLE;24;CHEST
+33;Anneau de Feu;Un anneau qui brûle les ennemis. Saignement 3 tours.;40;EQUIPPABLE;11;RING
+34;Chapeau du Rôdeur;Un chapeau léger et discret. Défense +5.;18;EQUIPPABLE;35;HEAD
+35;Cotte de Mailles;Une armure solide contre les coups physiques. Défense +9.;55;EQUIPPABLE;36;CHEST
+36;Anneau du Chasseur;Un anneau gravé d'une patte. ATK +6.;32;EQUIPPABLE;33;RING
+37;Fumee Aveuglante;Aveugle l'ennemi. Réduit son attaque 3 tours.;15;CONSUMABLE;22;NONE
+38;Bague de Protection;Un disque d'acier poli. DEF +4 et regen légère.;30;EQUIPPABLE;36;RING
+39;Elixir de Pierre;Peau de pierre pendant 3 tours. Défense +10.;35;CONSUMABLE;36;NONE
+40;Bague du Guerrier;Une bague forgée dans le sang des batailles. Attaque +5.;25;EQUIPPABLE;33;RING
+41;Staff Runique;Un bâton gravé de runes ancestrales. Attaque +7.;40;EQUIPPABLE;15;TWO_HANDS
+42;Heaume de Chevalier;Un casque orné de la croix de la garde. Défense +10.;45;EQUIPPABLE;36;HEAD
+43;Cape Elfique;Une cape tissée de fils magiques. Attaque et Défense +4.;38;EQUIPPABLE;24;CHEST
+44;Gantelets de Plaque;Des gantelets d'armure lourde. Défense +6.;28;EQUIPPABLE;34;CHEST
+45;Sabre du Desert;Une lame courbe parfaite pour les feintes. Attaque +6.;35;EQUIPPABLE;1;MAIN_HAND
+46;Talisman de Regeneration;Régénération passive sur 3 tours au combat.;32;EQUIPPABLE;27;NECK
+47;Anneau de Glace;Un anneau qui ralentit les ennemis. Debuff attaque 3 tours.;30;EQUIPPABLE;10;RING
+48;Potion de Vif-Argent;Regenere les PV sur 3 tours.;14;CONSUMABLE;43;NONE
+49;Anneau Runique;Des runes de protection gravées. DEF +6.;35;EQUIPPABLE;25;RING
+50;Torche Magique;Brûle l'ennemi pendant 3 tours.;10;CONSUMABLE;18;NONE
+51;Épée Large;Une épée large et lourde. Attaque +9 à deux mains.;55;EQUIPPABLE;2;TWO_HANDS
+52;Bouclier de Ronce;Un bouclier épineux. Défense +7 et renvoi de dégâts.;40;EQUIPPABLE;81;MAIN_HAND
+53;Casque de Berserker;Un heaume orné de crânes. Attaque +5 et intimidation.;38;EQUIPPABLE;9;HEAD
+54;Bague de Sang;Un rubis taille en goutte. ATK +7 mais fragile.;38;EQUIPPABLE;3;RING
+55;Cristal de Soin;Un cristal magique qui restaure 15 PV sur 3 tours.;22;CONSUMABLE;27;NONE
+56;Symbole de Treve;Un symbole de paix universel. Mercy +18.;30;CONSUMABLE;45;NONE
+57;Bague du Conteur;Une bague ornée d'histoires. Mercy +8.;20;EQUIPPABLE;52;RING
+58;Amulette de Combat;Une amulette qui booste l'attaque de 7.;33;EQUIPPABLE;4;NECK
+59;Botte Ferrée;Des bottes renforcées. Défense +6 et frappe au pied.;25;EQUIPPABLE;7;FEET
+60;Elixir Noir;Empoisonne l'ennemi sur 3 tours. Très efficace.;18;CONSUMABLE;19;NONE
+61;Glaive Elfique;Un glaive léger et tranchant. Attaque +7.;42;EQUIPPABLE;1;MAIN_HAND
+62;Anneau de l'Ombre;Réduit la défense ennemie à l'équipement.;28;EQUIPPABLE;7;RING
+63;Plaque de Titan;Une armure de titan forgée dans l'obsidienne. Défense +12.;70;EQUIPPABLE;97;CHEST
+64;Cape du Berserk;Une cape de combat qui amplifie la rage. Attaque +8.;45;EQUIPPABLE;5;CHEST
+65;Potion Bleue;Restaure 20 PV et booste la défense 3 tours.;20;CONSUMABLE;36;NONE
+66;Fiole de Venin;Empoisonne gravement l'ennemi sur 3 tours.;15;CONSUMABLE;94;NONE
+67;Sceptre Royal;Un sceptre magique à deux mains. Attaque +10.;65;EQUIPPABLE;16;TWO_HANDS
+68;Heaume d'Or;Un casque royal en or massif. Défense +11.;60;EQUIPPABLE;97;HEAD
+69;Pendentif Mystique;Un pendentif qui apaise même les plus farouches. Mercy +20.;45;EQUIPPABLE;50;NECK
+70;Botte de Mercure;Des bottes enchantées. Attaque +5 par célérité.;35;EQUIPPABLE;4;FEET
+71;Parchemin de Fury;Amplifie l'attaque considérablement pendant 3 tours.;25;CONSUMABLE;6;NONE
+72;Potion Dorée;Le meilleur soin. Restaure 80 PV.;40;CONSUMABLE;26;NONE
+73;Anneau du Sage;Un anneau de connaissance. Debuff attaque ennemi.;32;EQUIPPABLE;20;RING
+74;Bouclier Runique;Un bouclier gravé de runes protectrices. Défense +11.;55;EQUIPPABLE;25;MAIN_HAND
+75;Lame de l'Aube;Une lame forgée à l'aube. Attaque +9 et saignement.;58;EQUIPPABLE;11;MAIN_HAND
+76;Armure de Dragon;Une armure écailleuse de dragon. Défense +14.;80;EQUIPPABLE;97;CHEST
+77;Couronne de Ronces;Une couronne épineuse. Défense +8 et mercy passive.;50;EQUIPPABLE;81;HEAD
+78;Sandales Sacrées;Des sandales de pèlerin. Mercy +10 passive.;30;EQUIPPABLE;28;FEET
+79;Anneau Ancestral;Un anneau transmis de génération en génération. Attaque +7.;40;EQUIPPABLE;37;RING
+80;Cristal de Rage;Explose en rage pure. Attaque +10 pendant 3 tours.;28;CONSUMABLE;6;NONE
+81;Bandage Sacre;Soigne les blessures graves. Restaure 25 PV.;14;CONSUMABLE;42;NONE
+82;Fumee Mystique;Désoriente l'ennemi. Débuff défense 3 tours.;12;CONSUMABLE;8;NONE
+83;Parchemin du Temps;Régénération pendant 3 tours. Rare.;28;CONSUMABLE;43;NONE
+84;Epee du Roi;L'arme d'un roi déchu. Attaque +12.;75;EQUIPPABLE;2;MAIN_HAND
+85;Manteau du Vagabond;Un manteau usé mais protecteur. Défense +5 et mercy +5.;22;EQUIPPABLE;35;CHEST
+86;Pendentif de l'Equiliure;Un pendentif d'équilibre parfait. Attaque et mercy +6.;40;EQUIPPABLE;4;NECK
+87;Botte du Nord;Des bottes résistantes au froid. Défense +7.;30;EQUIPPABLE;36;FEET
+88;Potion de Vaillance;Immunise aux debuffs 3 tours. Défense +8.;32;CONSUMABLE;25;NONE
+89;Anneau Maudit;Un anneau maudit. Attaque +12 mais défense -5.;15;EQUIPPABLE;2;RING
+90;Hache de Guerre;Une hache de guerre à deux mains. Attaque +11.;65;EQUIPPABLE;30;TWO_HANDS
+91;Casque des Anciens;Un casque gravé de runes ancestrales. Défense +12.;55;EQUIPPABLE;36;HEAD
+92;Fiole de Sang;Un soin puissant à base de sang de dragon. 40 PV.;22;CONSUMABLE;13;NONE
+93;Lame du Crépuscule;Une lame qui brille au crépuscule. Attaque +10 et saignement 3t.;68;EQUIPPABLE;11;MAIN_HAND
+94;Armure des Abysses;Une armure forgée dans les abysses. Défense +15.;90;EQUIPPABLE;97;CHEST
+95;Anneau de l'Equilibre;Un anneau d'harmonie parfaite. Mercy +10 et attaque +5.;45;EQUIPPABLE;28;RING
+96;Parchemin Arcanique;Lance un éclair arcanique. Dégâts instantanés 18.;20;CONSUMABLE;15;NONE
+97;Cape de l'Invisible;Une cape qui vous fond dans l'ombre. Défense +8.;42;EQUIPPABLE;36;CHEST
+98;Grimoire de Soin;Un livre de sorts de soin. Regeneration 7 sur 3 tours.;35;EQUIPPABLE;43;NECK
+99;Botte de Guerre;Des bottes de combat lourdes. Défense +8 et frappe au sol.;38;EQUIPPABLE;30;FEET
+100;Larme du Dragon;La larme d'un dragon ancien. Restaure 100 PV. Très rare.;60;CONSUMABLE;26;NONE
